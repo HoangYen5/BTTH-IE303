@@ -30,4 +30,9 @@
 - Bài 2: Xấp xỉ pi từ đường tròn đơn vị
 - Bài 3: Convex Hull
 - Bài 4: Max Subarray
+
+## Lab 02 - Flappy Bird
+
+- Thiết kế trò chơi Flappy Bird theo yêu cầu.
+
 ---
